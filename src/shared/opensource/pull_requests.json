@@ -1,0 +1,404 @@
+{
+  "closed": 0,
+  "data": [
+    {
+      "id": "PR_kwDOIdkvH85FB7bV",
+      "title": "Database",
+      "url": "https://github.com/TchaloSon/mediTake/pull/20",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/52843446?v=4",
+        "url": "https://github.com/godwinKvg",
+        "login": "godwinKvg"
+      },
+      "createdAt": "2022-12-10T21:24:34Z",
+      "number": 20,
+      "changedFiles": 3,
+      "additions": 19,
+      "deletions": 3,
+      "baseRepository": {
+        "name": "mediTake",
+        "url": "https://github.com/TchaloSon/mediTake",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/67714608?v=4",
+          "login": "TchaloSon",
+          "url": "https://github.com/TchaloSon"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIdkvH85FAwZm",
+      "title": "Resolution du problème d'affichage de l'image",
+      "url": "https://github.com/TchaloSon/mediTake/pull/19",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/52843446?v=4",
+        "url": "https://github.com/godwinKvg",
+        "login": "godwinKvg"
+      },
+      "createdAt": "2022-12-10T16:41:53Z",
+      "number": 19,
+      "changedFiles": 10,
+      "additions": 91,
+      "deletions": 47,
+      "baseRepository": {
+        "name": "mediTake",
+        "url": "https://github.com/TchaloSon/mediTake",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/67714608?v=4",
+          "login": "TchaloSon",
+          "url": "https://github.com/TchaloSon"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIdkvH85EixkC",
+      "title": "Database",
+      "url": "https://github.com/TchaloSon/mediTake/pull/17",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/67714608?v=4",
+        "url": "https://github.com/TchaloSon",
+        "login": "TchaloSon"
+      },
+      "createdAt": "2022-12-06T21:18:55Z",
+      "number": 17,
+      "changedFiles": 12,
+      "additions": 83,
+      "deletions": 131,
+      "baseRepository": {
+        "name": "mediTake",
+        "url": "https://github.com/TchaloSon/mediTake",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/67714608?v=4",
+          "login": "TchaloSon",
+          "url": "https://github.com/TchaloSon"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIdkvH85Dvd9h",
+      "title": "Database",
+      "url": "https://github.com/TchaloSon/mediTake/pull/13",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/52843446?v=4",
+        "url": "https://github.com/godwinKvg",
+        "login": "godwinKvg"
+      },
+      "createdAt": "2022-11-26T17:56:55Z",
+      "number": 13,
+      "changedFiles": 2,
+      "additions": 26,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "mediTake",
+        "url": "https://github.com/TchaloSon/mediTake",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/67714608?v=4",
+          "login": "TchaloSon",
+          "url": "https://github.com/TchaloSon"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIdkvH85DuoKP",
+      "title": "main to roomDB",
+      "url": "https://github.com/TchaloSon/mediTake/pull/12",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/52843446?v=4",
+        "url": "https://github.com/godwinKvg",
+        "login": "godwinKvg"
+      },
+      "createdAt": "2022-11-25T21:32:07Z",
+      "number": 12,
+      "changedFiles": 14,
+      "additions": 415,
+      "deletions": 65,
+      "baseRepository": {
+        "name": "mediTake",
+        "url": "https://github.com/TchaloSon/mediTake",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/67714608?v=4",
+          "login": "TchaloSon",
+          "url": "https://github.com/TchaloSon"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIdkvH85DuoES",
+      "title": "Merge pull request #10 from Aboudourazakou/features",
+      "url": "https://github.com/TchaloSon/mediTake/pull/11",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/52843446?v=4",
+        "url": "https://github.com/godwinKvg",
+        "login": "godwinKvg"
+      },
+      "createdAt": "2022-11-25T21:30:59Z",
+      "number": 11,
+      "changedFiles": 0,
+      "additions": 0,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "mediTake",
+        "url": "https://github.com/TchaloSon/mediTake",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/67714608?v=4",
+          "login": "TchaloSon",
+          "url": "https://github.com/TchaloSon"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIdkvH85Dun9R",
+      "title": "Merge pull request #9 from Aboudourazakou/main",
+      "url": "https://github.com/TchaloSon/mediTake/pull/10",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/52843446?v=4",
+        "url": "https://github.com/godwinKvg",
+        "login": "godwinKvg"
+      },
+      "createdAt": "2022-11-25T21:29:43Z",
+      "number": 10,
+      "changedFiles": 0,
+      "additions": 0,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "mediTake",
+        "url": "https://github.com/TchaloSon/mediTake",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/67714608?v=4",
+          "login": "TchaloSon",
+          "url": "https://github.com/TchaloSon"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIdkvH85DunSz",
+      "title": "merge to features",
+      "url": "https://github.com/TchaloSon/mediTake/pull/9",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/52843446?v=4",
+        "url": "https://github.com/godwinKvg",
+        "login": "godwinKvg"
+      },
+      "createdAt": "2022-11-25T21:21:00Z",
+      "number": 9,
+      "changedFiles": 42,
+      "additions": 1158,
+      "deletions": 466,
+      "baseRepository": {
+        "name": "mediTake",
+        "url": "https://github.com/TchaloSon/mediTake",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/67714608?v=4",
+          "login": "TchaloSon",
+          "url": "https://github.com/TchaloSon"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIdkvH85Ds4U-",
+      "title": "Merge pull request #6 from Aboudourazakou/main",
+      "url": "https://github.com/TchaloSon/mediTake/pull/7",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/52843446?v=4",
+        "url": "https://github.com/godwinKvg",
+        "login": "godwinKvg"
+      },
+      "createdAt": "2022-11-25T11:16:17Z",
+      "number": 7,
+      "changedFiles": 0,
+      "additions": 0,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "mediTake",
+        "url": "https://github.com/TchaloSon/mediTake",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/67714608?v=4",
+          "login": "TchaloSon",
+          "url": "https://github.com/TchaloSon"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIdkvH85Ds313",
+      "title": "main branch",
+      "url": "https://github.com/TchaloSon/mediTake/pull/6",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/52843446?v=4",
+        "url": "https://github.com/godwinKvg",
+        "login": "godwinKvg"
+      },
+      "createdAt": "2022-11-25T11:15:13Z",
+      "number": 6,
+      "changedFiles": 36,
+      "additions": 2358,
+      "deletions": 37,
+      "baseRepository": {
+        "name": "mediTake",
+        "url": "https://github.com/TchaloSon/mediTake",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/67714608?v=4",
+          "login": "TchaloSon",
+          "url": "https://github.com/TchaloSon"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIdkvH85Dpqaf",
+      "title": "Room db",
+      "url": "https://github.com/TchaloSon/mediTake/pull/4",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/67714608?v=4",
+        "url": "https://github.com/TchaloSon",
+        "login": "TchaloSon"
+      },
+      "createdAt": "2022-11-24T14:26:37Z",
+      "number": 4,
+      "changedFiles": 17,
+      "additions": 252,
+      "deletions": 57,
+      "baseRepository": {
+        "name": "mediTake",
+        "url": "https://github.com/TchaloSon/mediTake",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/67714608?v=4",
+          "login": "TchaloSon",
+          "url": "https://github.com/TchaloSon"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIdkvH85Dc0x2",
+      "title": "Room db",
+      "url": "https://github.com/TchaloSon/mediTake/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/67714608?v=4",
+        "url": "https://github.com/TchaloSon",
+        "login": "TchaloSon"
+      },
+      "createdAt": "2022-11-22T11:32:11Z",
+      "number": 2,
+      "changedFiles": 19,
+      "additions": 584,
+      "deletions": 87,
+      "baseRepository": {
+        "name": "mediTake",
+        "url": "https://github.com/TchaloSon/mediTake",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/67714608?v=4",
+          "login": "TchaloSon",
+          "url": "https://github.com/TchaloSon"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIdkvH85DZZES",
+      "title": "Implemented ROOM DATABASE and created project entities",
+      "url": "https://github.com/TchaloSon/mediTake/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/67714608?v=4",
+        "url": "https://github.com/TchaloSon",
+        "login": "TchaloSon"
+      },
+      "createdAt": "2022-11-21T22:46:58Z",
+      "number": 1,
+      "changedFiles": 25,
+      "additions": 793,
+      "deletions": 6,
+      "baseRepository": {
+        "name": "mediTake",
+        "url": "https://github.com/TchaloSon/mediTake",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/67714608?v=4",
+          "login": "TchaloSon",
+          "url": "https://github.com/TchaloSon"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOE4frUc4rul8X",
+      "title": "Update README.md",
+      "url": "https://github.com/godwinKvg/godwinKvg/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/52843446?v=4",
+        "url": "https://github.com/godwinKvg",
+        "login": "godwinKvg"
+      },
+      "createdAt": "2021-09-14T12:35:30Z",
+      "number": 1,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "godwinKvg",
+        "url": "https://github.com/godwinKvg/godwinKvg",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/52843446?v=4",
+          "login": "godwinKvg",
+          "url": "https://github.com/godwinKvg"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NzI2NzU4OTc5",
+      "title": "middleware authorization & update Admin route",
+      "url": "https://github.com/asadtahir11/nova/pull/1",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2021-09-03T12:15:13Z",
+      "number": 1,
+      "changedFiles": 2,
+      "additions": 30,
+      "deletions": 19,
+      "baseRepository": {
+        "name": "nova",
+        "url": "https://github.com/asadtahir11/nova",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/77806116?u=898fdab3158e533651aa197dff5449a6645d4712&v=4",
+          "login": "asadtahir11",
+          "url": "https://github.com/asadtahir11"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTUwNDQ3OTE2",
+      "title": "Authentication pages",
+      "url": "https://github.com/godwinKvg/personnalDesign/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/52843446?v=4",
+        "url": "https://github.com/godwinKvg",
+        "login": "godwinKvg"
+      },
+      "createdAt": "2021-01-06T14:02:19Z",
+      "number": 1,
+      "changedFiles": 60,
+      "additions": 3442,
+      "deletions": 1493,
+      "baseRepository": {
+        "name": "personnalDesign",
+        "url": "https://github.com/godwinKvg/personnalDesign",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/52843446?v=4",
+          "login": "godwinKvg",
+          "url": "https://github.com/godwinKvg"
+        }
+      }
+    }
+  ],
+  "merged": 15,
+  "open": 1,
+  "totalCount": 16
+}

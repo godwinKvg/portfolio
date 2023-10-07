@@ -1,0 +1,71 @@
+{
+  "data": [
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Amazon Clone",
+      "url": "https://clone-2acb1.web.app/",
+      "description": "🔥 Replication of the Amazon interface, featuring a purchasing functionality for acquiring products on the website",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "Typescript",
+          "iconifyClass": "simple-icons:typescript"
+        },
+        {
+          "name": "Firebase",
+          "iconifyClass": "simple-icons:firebase"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYHA",
+      "name": "Personnalized Design",
+      "url": "https://personnalizedesign-b2b01.firebaseapp.com/",
+      "description": "📦 Online platform for the sale of artistic creations, including invitation cards, flashcards, UI/UX designs, and logos. Implemented purchasing functionality to streamline the online shopping experience. V2 (https://personnal-design.netlify.app/)",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "Typescript",
+          "iconifyClass": "simple-icons:typescript"
+        },
+        {
+          "name": "Firebase",
+          "iconifyClass": "simple-icons:firebase"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG0_8uQ",
+      "name": "PillTaker Mobile Application",
+      "url": "",
+      "description": "🌀PillTaker, an Android application designed for medication reminders, notifies users of their scheduled medication times. It generates a daily report of medication adherence and sends a summary of medication intake to the attending doctor for patient monitoring.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "android",
+          "iconifyClass": "simple-icons:android"
+        },
+        {
+          "name": "java",
+          "iconifyClass": "simple-icons:spring"
+        }
+      ]
+    }
+  ]
+}
