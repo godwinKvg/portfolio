@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "Passionate DevOps software engineer, I implement sustainable solutions while prioritizing customer satisfaction. My love for teaching complements my ongoing quest to create a positive impact.",
   resumeLink:
-    "https://drive.google.com/drive/folders/1Xkmm15suuZAV6HYia2q1Qsu2PUahuSKG?usp=drive_link",
+    "https://drive.google.com/drive/folders/1Xkmm15suuZAV6HYia2q1Qsu2PUahuSKG?usp=sharing",
   portfolio_repository: "https://github.com/godwinKvg/gPortfolio",
   githubProfile: "https://github.com/godwinKvg",
 };
